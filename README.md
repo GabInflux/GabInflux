@@ -49,3 +49,5 @@ ccccc### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
 -----
 
 ### <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git Trophies</p>
+
+<p align="center"><img height="170em" src="https://github-profile-trophy.vercel.app/?username=gabincleaver&row=2&column=3&theme=monokai&margin-w=15&margin-h=15&rank=SSS, SS, S, AAA, AA, A" /></p>
