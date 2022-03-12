@@ -8,14 +8,6 @@ ccccc### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
   
 </p>
 
------
-
-### <p align="center">👀 &nbsp;Visiteurs</p>
-<br>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/gabinflux/count.svg" />
-</p>
-
 ### <p align="center">🛠 &nbsp;Tech Stack</p>
 
 -----
@@ -47,3 +39,9 @@ ccccc### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
 
 -----
+
+### <p align="center">👀 &nbsp;Visiteurs</p>
+<br>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/gabinflux/count.svg" />
+</p>
