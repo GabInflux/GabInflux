@@ -1,4 +1,4 @@
-ccccc### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
+<p align="center">⚙️ &nbsp;Mes Statistiques</p>
 <br>
 <p align="center">
 <a href="https://github.com/billythegoat356">
