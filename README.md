@@ -2,8 +2,8 @@ ccccc### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
 <br>
 <p align="center">
 <a href="https://github.com/billythegoat356">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabthefirst&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabthefirst&layout=compact&langs_count=8&theme=react&locale=fr"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabinflux&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabinflux&layout=compact&langs_count=8&theme=react&locale=fr"/>
 </a>
   
 </p>
@@ -13,7 +13,7 @@ ccccc### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
 ### <p align="center">👀 &nbsp;Visiteurs</p>
 <br>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/gabthefirst/count.svg" />
+  <img src="https://profile-counter.glitch.me/gabinflux/count.svg" />
 </p>
 
 ### <p align="center">🛠 &nbsp;Tech Stack</p>
@@ -50,4 +50,4 @@ ccccc### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
 
 ### <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git Trophies</p>
 
-<p align="center"><img height="170em" src="https://github-profile-trophy.vercel.app/?username=gabincleaver&row=2&column=3&theme=monokai&margin-w=15&margin-h=15&rank=SSS, SS, S, AAA, AA, A" /></p>
+<p align="center"><img height="170em" src="https://github-profile-trophy.vercel.app/?username=gabinflux&row=2&column=3&theme=monokai&margin-w=15&margin-h=15&rank=SSS, SS, S, AAA, AA, A" /></p>
