@@ -47,8 +47,3 @@ ccccc### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
 
 -----
-
-<p align="center"> 
-  Compteur de Visiteurs<br/><br/>
-  <img src="https://profile-counter.glitch.me/GabinCleaver/count.svg" />
-</p>
