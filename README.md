@@ -1,4 +1,4 @@
-### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
+ccccc### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
 <br>
 <p align="center">
 <a href="https://github.com/billythegoat356">
@@ -45,3 +45,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
+
+-----
+
+### <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git Trophies</p>
